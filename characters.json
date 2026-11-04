@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Brutus",
+    "characterClass": "Warrior",
+    "level": 5,
+    "health": 120,
+    "attackPower": 18,
+    "gold": 250
+  },
+  {
+    "name": "Elara",
+    "characterClass": "Mage",
+    "level": 7,
+    "health": 80,
+    "attackPower": 25,
+    "gold": 400
+  },
+  {
+    "name": "Rowan",
+    "characterClass": "Archer",
+    "level": 4,
+    "health": 95,
+    "attackPower": 16,
+    "gold": 175
+  }
+]

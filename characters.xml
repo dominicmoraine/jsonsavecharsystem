@@ -1,0 +1,26 @@
+<characters>
+  <character>
+    <name>Brutus</name>
+    <characterClass>Warrior</characterClass>
+    <level>5</level>
+    <health>120</health>
+    <attackPower>18</attackPower>
+    <gold>250</gold>
+  </character>
+  <character>
+    <name>Elara</name>
+    <characterClass>Mage</characterClass>
+    <level>7</level>
+    <health>80</health>
+    <attackPower>25</attackPower>
+    <gold>400</gold>
+  </character>
+  <character>
+    <name>Rowan</name>
+    <characterClass>Archer</characterClass>
+    <level>4</level>
+    <health>95</health>
+    <attackPower>16</attackPower>
+    <gold>175</gold>
+  </character>
+</characters>
